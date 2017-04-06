@@ -186,3 +186,4 @@ bower_components/
 ## django
 ###################
 .log
+/.idea
